@@ -1,0 +1,8 @@
+# Compiled files
+client/build
+
+# Node stuff
+node_modules
+
+# Config enviroment variable
+.env
